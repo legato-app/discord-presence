@@ -17,3 +17,7 @@ Its settings (your Discord application id, what to show, the buttons) are in the
 ## Writing your own
 
 This plugin uses the plugin API 2. The guide: [docs/plugins.md](https://github.com/legato-app/legato/blob/master/docs/plugins.md).
+
+## Licence
+
+MIT: copy it, change it, start your own plugin from it.
