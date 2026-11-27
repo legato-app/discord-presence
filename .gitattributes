@@ -1,0 +1,2 @@
+# Signed files: their bytes must match legato.files, whatever the OS.
+* -text
